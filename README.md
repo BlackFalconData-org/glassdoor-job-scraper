@@ -2,11 +2,12 @@
 
 Extract structured job listings from Glassdoor across 21 markets with salary data, filters, compact mode, and built-in change tracking.
 
-**[Glassdoor Job Scraper on Apify →](https://apify.com/blackfalcondata/glassdoor-job-scraper)**
+**[Glassdoor Job Scraper - Salary & Reviews on Apify →](https://apify.com/blackfalcondata/glassdoor-job-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -22,8 +23,9 @@ Extract structured job listings from Glassdoor across 21 markets with salary dat
 
 
 
+
 **Data pipeline automation**
-Integrate with your ETL pipeline to collect structured listings from glassdoor.com on a schedule. Export to CSV, JSON, or directly to your database.
+Integrate with your ETL pipeline to collect structured listings from glassdoor.com on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
 
 **Market research**
 Monitor listings, track trends, and analyze market dynamics with structured, deduplicated data from glassdoor.com.
@@ -87,6 +89,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
